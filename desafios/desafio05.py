@@ -32,5 +32,6 @@ class Gamer():
 
 player1 = Gamer('Lucas ', 'Seu amor')
 player1.favoritos('Red Dead Redemption 2')
+player1.favoritos('Forza Horizon 6')
 player1.favoritos('Persona 5 Royal')
 player1.ficha()
